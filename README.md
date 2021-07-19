@@ -1,2 +1,2 @@
 # Portfolio
-Moje portfolio
+## O mnie!
