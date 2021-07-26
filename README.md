@@ -3,8 +3,10 @@
 ## Narzędzia
 ## Kursy
 ## Książki techniczne 
-**"Testowanie oprogramowania" Rafał Pawlak
-**"Certyfikowany tester ISTQB" Adam Roman, Lucjan Stapp
+
+* "Testowanie oprogramowania" Rafał Pawlak
+* "Certyfikowany tester ISTQB" Adam Roman, Lucjan Stapp
+
 ## Grupy testerskie
 ## Blogi, strony tematyczne
 ## Webinary
