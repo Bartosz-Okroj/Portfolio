@@ -1,5 +1,11 @@
 # Portfolio
 ## O mnie!
+
+* Początkujący, pełen zapalu i chęci do nauki tester oprogramowania.
+Poszukuję możliwość rozwoju zawodowego w branży testowania manualnego i automatycznego.
+Moją zdecydowanie największą zaletą jest fakt, iż zawsze zdeterminowany daże do osiagniecia celów i założeń 
+postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które staną na mojej drodze.
+
 ## Narzędzia
 ## Kursy
 ## Książki techniczne 
