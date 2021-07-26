@@ -7,6 +7,26 @@ Moją zdecydowanie największą zaletą jest fakt, iż zawsze zdeterminowany da�
 postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które staną na mojej drodze.
 
 ## Narzędzia
+
+* Postman
+* JIRA 
+* IntelliJ
+* Selenium IDE
+* MySQL
+
+## Umiejętności 
+
+* SQL
+* DevTools
+* Agille
+* SCRUM
+* Tworzenie przypadków testowych
+* Raportowanie błędów 
+
+## Certyfikaty
+
+* ISTQB
+
 ## Kursy
 ## Książki techniczne 
 
