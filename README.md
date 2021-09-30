@@ -25,7 +25,7 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 
 ## Certyfikaty
 
-* ISTQB - No. 16338/CTFL/2021
+* [ISTQB - No. 16338/CTFL/2021](http://scr.istqb.org/?name=Bartosz+Okr%C3%B3j&number=16338%2FCTFL%2F2021&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10)_
 * SDA - Tester oprogramowania - No.144/06/2020
 * SDA - SCRUM - No.144/06/2020
 
