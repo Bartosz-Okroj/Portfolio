@@ -54,6 +54,10 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 
 ## Webinary
 ## Moje przypadki testowe
+
+* [Przypadki testowe](https://drive.google.com/file/d/1eaeJ4Tin2GqCrPxnozcm5xIPlFY_ukA7/view?usp=sharing)
+
+
 ## Moje Zgłoszenia Defektów
 ## Selenium - przykłady
 ## Moje Projekty
