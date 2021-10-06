@@ -61,6 +61,7 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 ## Moje Zgłoszenia Defektów
 ## Selenium - przykłady
 
-* [Rejestracja](https://github.com/Bartosz-Okroj/Selenium/tree/main)
+* [Rejestracja](https://github.com/Bartosz-Okroj/Selenium/tree/main) - kod
+* [Rejestracja](https://www.youtube.com/watch?v=1b-_AH_HCYc) - film
 
 ## Moje Projekty
