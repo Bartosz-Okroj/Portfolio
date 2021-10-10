@@ -52,16 +52,14 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 * https://testerzy.pl/
 
 
-## Webinary
 ## Moje przypadki testowe
 
 * [Przypadki testowe](https://drive.google.com/file/d/1T7sFOSodQF74pau-hZaDx-bOewsESc7j/view?usp=sharing)
 
 
-## Moje Zgłoszenia Defektów
 ## Selenium - przykłady
 
 * [Rejestracja](https://github.com/Bartosz-Okroj/Selenium/tree/main) - kod
 * [Rejestracja](https://www.youtube.com/watch?v=1b-_AH_HCYc) - film
 
-## Moje Projekty
+
