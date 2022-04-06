@@ -9,7 +9,7 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 ## Narzędzia
 
 * Postman
-* JIRA 
+* JIRA, TestRail
 * IntelliJ
 * Selenium IDE
 * MySQL
@@ -28,6 +28,7 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 * [ISTQB - No. 16338/CTFL/2021](http://scr.istqb.org/?name=Bartosz+Okr%C3%B3j&number=16338%2FCTFL%2F2021&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=&resultsPerPage=10)
 * SDA - Tester oprogramowania - No.144/06/2020
 * SDA - SCRUM - No.144/06/2020
+* UDEMY - SQL - język zapytań do bazy danych SQL Server
 
 ## Kursy
 
