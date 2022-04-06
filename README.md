@@ -50,6 +50,7 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 ## Blogi, strony tematyczne
 
 * https://testerzy.pl/
+* http://cherry-it.pl/
 
 
 ## Moje przypadki testowe
