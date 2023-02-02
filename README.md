@@ -9,7 +9,7 @@ postanowień samemu sobie. Napewno nie boje się też nowych wyzwań, które sta
 ## Narzędzia
 
 * Postman
-* JIRA, TestRail
+* JIRA, TestRail, Azure DevOps
 * IntelliJ
 * Selenium IDE
 * MySQL
